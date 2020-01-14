@@ -1,0 +1,15 @@
+-rwxrwxrwx 1 PTaggart PTaggart    2512 Oct 20 22:36 builtIn.c
+-rwxrwxrwx 1 PTaggart PTaggart    6848 Oct 24 13:25 builtIn.o
+-rwxrwxrwx 1 PTaggart PTaggart     170 Oct 24 13:28 dirlist.txt
+-rwxrwxrwx 1 PTaggart PTaggart     509 Oct 19 11:52 makefile
+-rwxrwxrwx 1 PTaggart PTaggart   12352 Oct 24 13:25 myls
+-rwxrwxrwx 1 PTaggart PTaggart    2305 Oct 24 13:16 myls.c
+-rwxrwxrwx 1 PTaggart PTaggart   30040 Apr 12 10:58 myshell
+-rwxrwxrwx 1 PTaggart PTaggart    2228 Oct 24 13:28 myshell.bak
+-rwxrwxrwx 1 PTaggart PTaggart    2191 Oct 27 09:46 myshell.c
+-rwxrwxrwx 1 PTaggart PTaggart    8128 Oct 27 09:55 myshell.o
+-rwxrwxrwx 1 PTaggart PTaggart   10240 Oct 24 13:25 myshellTaggart.tar
+-rwxrwxrwx 1 PTaggart PTaggart    3262 Oct 23 13:58 README.txt
+-rwxrwxrwx 1 PTaggart PTaggart   15719 Nov 19 15:51 shellCmdFunction.c
+-rwxrwxrwx 1 PTaggart PTaggart   23648 Apr 12 10:58 shellCmdFunction.o
+-rwxrwxrwx 1 PTaggart PTaggart       0 Apr 12 10:59 testfile
